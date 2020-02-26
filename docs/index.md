@@ -1,4 +1,4 @@
-# Software Factory Patterns
+# ![](img/open-book.png) Software Factory Patterns
 
 Building software is a combination of both art and science. Software is built by teams. Well designed, tested and documented distributed Systems are built by high performing teams. The Software factory is designed to provide all guiding principles so that high performing teams can produce software.
 
