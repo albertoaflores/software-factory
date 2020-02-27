@@ -1,8 +1,11 @@
 site_name: Software Factory
 nav:
-  - Home: index.md
-  - Handbooks: 
-    - Factory Process: handbook/process.md
-    - For Developers: handbook/developer.md
-    - For Operators: handbook/platform.md
+  - Intro: index.md
+  - Factory Process: 
+    - Introduction: handbook/process/intro.md
+  - For Developers: 
+    - Introduction: handbook/developer/intro.md
+  - For Operators: 
+    - Introduction: handbook/platform/intro.md
+    
 theme: readthedocs
